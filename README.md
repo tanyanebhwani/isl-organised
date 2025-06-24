@@ -178,7 +178,7 @@ Build a browser-based interface using WebRTC + TensorFlow.js for real-time sign 
 ## 🤝 Contact
 For any questions, suggestions, or collaboration inquiries:
 
-📧 Email: nebhwanitanya0@gmail.com
+📧 Email: nebhwanitanya07@gmail.com
 
-💻 GitHub: @tanyanebhwani
+💻 GitHub: https://github.com/tanyanebhwani/
 

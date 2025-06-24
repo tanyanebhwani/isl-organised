@@ -107,24 +107,43 @@ The predicted sign (Morning, Night, etc.) will be displayed in the top right cor
 ## isl-organised/
 │
 ├── main.ipynb                   # Main notebook for training
+
 ├── userInterface.py             # Real-time prediction interface
+
 │
+
 ├── feature_extraction/
+
 │   └── feature_extraction.py    # Generates training features from skeleton videos
+
 │
+
 ├── mediapipe/
+
 │   └── mp.py                    # MediaPipe conversion script
+
 │
+
 ├── models/
+
 │   └── model.py                 # Spatiotemporal CNN model definition
+
 │
+
 ├── data/
+
 │   ├── Days_and_Time/           # Raw input gesture videos
+
 │   └── Days_and_Time_skeleton/  # Skeletonized videos using MediaPipe
+
 │
+
 ├── X.npy                        # Input features (30 frames/video)
+
 ├── y.npy                        # Corresponding labels
+
 ├── my_sign_model.h5             # Trained model weights
+
 └── README.md                    # Project documentation
 
 ## 📊 Model Details
